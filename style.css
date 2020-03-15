@@ -446,7 +446,7 @@ footer h4 {
         -ms-flex-direction: row;
             flex-direction: row;
     list-style: none;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
   }
   .nav .overlay ul li a {
     font-size: 1.5rem;
